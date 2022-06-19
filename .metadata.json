@@ -1,0 +1,10 @@
+[
+  {
+    "package": "causaleffect",
+    "oncran": true
+  },
+  {
+    "package": "cfid",
+    "oncran": true
+  }
+]

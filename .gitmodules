@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "causaleffect"]
+	path = causaleffect
+	url = https://github.com/santikka/causaleffect
+	shallow = true
+	registered = true
+[submodule "cfid"]
+	path = cfid
+	url = https://github.com/santikka/cfid
+	shallow = true
+	registered = true
