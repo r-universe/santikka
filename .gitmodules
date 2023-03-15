@@ -13,3 +13,8 @@
 	url = https://github.com/santikka/cfid
 	shallow = true
 	registered = true
+[submodule "dosearch"]
+	path = dosearch
+	url = https://github.com/santikka/dosearch
+	shallow = true
+	registered = true
