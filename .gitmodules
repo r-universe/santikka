@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "causaleffect"]
 	path = causaleffect
 	url = https://github.com/santikka/causaleffect
-	shallow = true
-	registered = true
 [submodule "cfid"]
 	path = cfid
 	url = https://github.com/santikka/cfid
-	shallow = true
-	registered = true
 [submodule "dosearch"]
 	path = dosearch
 	url = https://github.com/santikka/dosearch
-	shallow = true
-	registered = true
