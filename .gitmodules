@@ -8,6 +8,9 @@
 [submodule "cfid"]
 	path = cfid
 	url = https://github.com/santikka/cfid
+[submodule "codyna"]
+	path = codyna
+	url = https://github.com/santikka/codyna
 [submodule "dosearch"]
 	path = dosearch
 	url = https://github.com/santikka/dosearch
